@@ -1,0 +1,7 @@
+F:\C# daima\Calculator1\Calculator1\bin\Debug\Calculator1.exe.config
+F:\C# daima\Calculator1\Calculator1\bin\Debug\Calculator1.exe
+F:\C# daima\Calculator1\Calculator1\bin\Debug\Calculator1.pdb
+F:\C# daima\Calculator1\Calculator1\obj\Debug\Calculator1.csprojAssemblyReference.cache
+F:\C# daima\Calculator1\Calculator1\obj\Debug\Calculator1.csproj.CoreCompileInputs.cache
+F:\C# daima\Calculator1\Calculator1\obj\Debug\Calculator1.exe
+F:\C# daima\Calculator1\Calculator1\obj\Debug\Calculator1.pdb
